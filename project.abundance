@@ -60,10 +60,14 @@
     {
       "atomType": "Move",
       "name": "Move",
-      "x": 0.7175572519083969,
-      "y": 0.6621621621621622,
+      "x": 0.7455470737913487,
+      "y": 0.5878378378378378,
       "uniqueID": "1c238670-5859-4c46-b469-55d93fb8d64d",
       "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": 10
+        },
         {
           "name": "xDist",
           "ioValue": -50
@@ -120,10 +124,14 @@
     {
       "atomType": "Move",
       "name": "Move",
-      "x": 0.7531806615776082,
-      "y": 0.9391891891891891,
+      "x": 0.6564885496183206,
+      "y": 0.8074324324324325,
       "uniqueID": "c713c3cf-632d-4b87-af16-ad1b2cc6ca04",
       "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": 10
+        },
         {
           "name": "xDist",
           "ioValue": 50
@@ -141,10 +149,14 @@
     {
       "atomType": "Move",
       "name": "Move",
-      "x": 0.6564885496183206,
-      "y": 0.4966216216216216,
+      "x": 0.5979643765903307,
+      "y": 0.38175675675675674,
       "uniqueID": "660853cf-6e70-4ab3-ad58-ccf7fe807728",
       "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": 10
+        },
         {
           "name": "xDist",
           "ioValue": 50
@@ -162,10 +174,14 @@
     {
       "atomType": "Move",
       "name": "Move",
-      "x": 0.6183206106870228,
-      "y": 0.3108108108108108,
+      "x": 0.6819338422391857,
+      "y": 0.1891891891891892,
       "uniqueID": "1531819f-f7e8-4fd4-b770-1650075f8ed3",
       "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": 10
+        },
         {
           "name": "xDist",
           "ioValue": -50
@@ -225,7 +241,30 @@
     }
   ],
   "allConnectors": [
-    null,
+    {
+      "ap1Name": "number or geometry",
+      "ap2Name": "geometry",
+      "ap1ID": "310768f6-6870-43d2-ba8d-316e5193580e",
+      "ap2ID": "c713c3cf-632d-4b87-af16-ad1b2cc6ca04"
+    },
+    {
+      "ap1Name": "number or geometry",
+      "ap2Name": "geometry",
+      "ap1ID": "310768f6-6870-43d2-ba8d-316e5193580e",
+      "ap2ID": "1c238670-5859-4c46-b469-55d93fb8d64d"
+    },
+    {
+      "ap1Name": "number or geometry",
+      "ap2Name": "geometry",
+      "ap1ID": "310768f6-6870-43d2-ba8d-316e5193580e",
+      "ap2ID": "660853cf-6e70-4ab3-ad58-ccf7fe807728"
+    },
+    {
+      "ap1Name": "number or geometry",
+      "ap2Name": "geometry",
+      "ap1ID": "310768f6-6870-43d2-ba8d-316e5193580e",
+      "ap2ID": "1531819f-f7e8-4fd4-b770-1650075f8ed3"
+    },
     {
       "ap1Name": "number or geometry",
       "ap2Name": "Y",
