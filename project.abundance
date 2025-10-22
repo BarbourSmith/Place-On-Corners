@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "Place-On-Corners",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "b6187b6e-5b5f-4218-a4cd-8e7b36f0b12d",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "Unitless",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
